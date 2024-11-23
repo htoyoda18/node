@@ -1,0 +1,53 @@
+https://chatgpt.com/c/67419717-d858-8005-a269-e2ff136209dc
+- .clang-format
+  - C++コードのスタイルを自動整形する
+- .cpplint
+  - C++コードの静的解析ツールcpplint用の設定ファイル
+- .editorconfig
+  - エディタ設定を統一する
+- .gitattributes
+  - Gitの属性を定義する
+- .gitignore
+  - Gitで追跡しないファイルやディレクトリ
+- .gitpod.yml
+  - Gitpod（クラウド開発環境）用の設定ファイル
+- .mailmap
+  - コントリビューターのメールアドレス
+- .nycrc
+  - テストカバレッジツールnyc（Istanbulのラッパー）の設定ファイル
+- .yamllint.yaml
+  - YAMLファイルの構文チェックツールyamllintの設定ファイル
+- BSDmakefile
+  - BSD環境でmakeを使用してビルドする
+- BUILD.gn
+  - GN（Google's Meta-Build System）用のビルド設定
+- BUILDING.md
+  - Node.jsのビルド手順を説明したガイド
+- CHANGELOG.md
+  - Node.jsのリリース履歴と変更点
+- CODE_OF_CONDUCT.md
+  - プロジェクトの行動規範
+- CONTRIBUTING.md
+  - 
+- GOVERNANCE.md
+- LICENSE
+- Makefile
+- README.md
+- SECURITY.md
+- android-configure
+- android_configure.py
+- codecov.yml
+- common.gypi
+- configure
+- configure.py
+- eslint.config.mjs
+- glossary.md
+- node.gni
+- node.gyp
+- node.gypi
+- onboarding.md
+- pyproject.toml
+- suppressions.supp
+- tsconfig.json
+- unofficial.gni
+- vcbuild.bat
